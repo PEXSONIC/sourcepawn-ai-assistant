@@ -8,7 +8,7 @@ sourcemod api reference is generated from sourcemod build 1.12.
 
 ai studio offers an unlimited free default API key for both 2.5 pro and 2.5 flash.
 
-test or fork the app AI Studio Build: https://ai.studio/apps/drive/1LDELwdxhSsSZrf-C2RhofEhY1KqbS7nl
+test or fork the app AI Studio Build: [https://ai.studio/apps/drive/1LDELwdxhSsSZrf-C2RhofEhY1KqbS7nl](https://aistudio.google.com/apps/drive/1LDELwdxhSsSZrf-C2RhofEhY1KqbS7nl?showAssistant=false&showPreview=true)
 
 ## settings
 
