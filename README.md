@@ -2,7 +2,7 @@
 
 **note**: i dont know any typescript. this app is completely vibe coded. it seems to be solid from my testing but do NOT publish this on a public host without entirely auditing the app cuz i have no idea how safe it is
 
-a lightweight web app that helps you make SourceMod plugins. it uses Gemini tool-calling with a local JSON copy of the SourceMod API parsed from version 1.12. the parser is included in the `parser` directory. this repo serves as an archive. to run this for free make a copy of the app in the **the google AI studio link below**.  
+this is a lightweight web app that helps you make SourceMod plugins. it uses Gemini tool-calling with a local JSON copy of the SourceMod API. the parser is included in the `parser` directory. this repo serves as an archive. to run this for free make a copy of the app in the **the google AI studio link below**.  
 
 sourcemod api reference is generated from sourcemod build 1.12.
 
@@ -34,6 +34,12 @@ parse all sourcemod .inc files inside a directory into the json schema.
 
 * `parser/inc_to_json.py` builds sourcemod API JSON schema for all `.inc` files in a directory.
     - args: `py inc_to_json.py ./inc_folder --output ./file.json`
+      
+* `parser/css_ents_to_json.py` parses fgd files into a entity reference json schema for another tool.
+    - args: `py build_fgd_data.py --input ./fgd_folder --output ./file.json --pretty`
+    - example `css_ents.json` is included but not implemented in the app yet
+    - requires `valvefgd`: `pip install valvefgd`
+    - currently built for css and expects css fgd structure
 
 
 ## run locally
