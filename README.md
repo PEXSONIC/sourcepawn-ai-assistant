@@ -36,7 +36,7 @@ parse all sourcemod .inc files inside a directory into the json schema.
     - args: `py inc_to_json.py ./inc_folder --output ./file.json`
       
 * `parser/css_ents_to_json.py` parses fgd files into a entity reference json schema for another tool.
-    - args: `py build_fgd_data.py --input ./fgd_folder --output ./file.json --pretty`
+    - args: `py css_ents_to_json.py --input ./fgd_folder --output ./file.json --pretty`
     - example `css_ents.json` is included but not implemented in the app yet
     - requires `valvefgd`: `pip install valvefgd`
     - currently built for css and expects css fgd structure
