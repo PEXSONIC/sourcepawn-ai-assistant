@@ -1,4 +1,4 @@
-# SourceMod AI Assistant (Gemini 2.5 Pro + Tool-Calling)
+## gemini sourcepawn
 
 a lightweight web app that helps you make SourceMod plugins. it uses Gemini tool-calling with a local JSON copy of the SourceMod API parsed from version 1.12. the parser is included in the `parser` directory. this repo serves as an archive. to run this for free make a copy of the app in the **the google AI studio link below**.  
 
