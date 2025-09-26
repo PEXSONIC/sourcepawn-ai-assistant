@@ -17,7 +17,7 @@ i would recommend the following settings
   - Temperature: `0.3`
   - Top-p: `0.9`
 
-for the model, flash produces more quick code and fails less. pro is better for more complex stuff.
+for the model, flash produces more quick code and fails less. pro is better for more complex stuff, but only for smaller input... flash handles any amount of code fine but pro will struggle if your temp is too high or the context is too much
 
 ## data files
 
