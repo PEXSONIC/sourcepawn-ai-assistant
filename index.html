@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SourceMod AI Assistant</title>
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://esm.sh/prismjs/themes/prism-tomorrow.css">
+  <link rel="icon" href="https://avatars.githubusercontent.com/u/163359?s=200&v=4">
+</head>
+<body>
+  
+  <!-- The import map is used by AI Studio Build instead of package.json -->
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://esm.sh/@google/genai",
+    "lit-html": "https://esm.sh/lit-html",
+    "lit-html/directives/unsafe-html.js": "https://esm.sh/lit-html/directives/unsafe-html.js",
+    "marked": "https://esm.sh/marked",
+    "dompurify": "https://esm.sh/dompurify",
+    "lit-html/": "https://esm.sh/lit-html@^3.3.1/",
+    "prismjs": "https://esm.sh/prismjs",
+    "prismjs/": "https://esm.sh/prismjs/"
+  }
+}
+</script>
+
+  <!-- The main application container -->
+  <div id="root"></div>
+  
+  <!-- The application script -->
+  <script type="module" src="./index.js"></script>
+
+</body>
+</html>

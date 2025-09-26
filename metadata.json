@@ -1,0 +1,6 @@
+{
+  "name": "SourceMod Assistant",
+  "description": "References the SourceMod scripting API",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
