@@ -1,5 +1,7 @@
 ## gemini sourcepawn
 
+**note**: i dont know any typescript. this app is completely vibe coded. it seems to be solid from my testing but do NOT publish this on a public host without entirely auditing the app cuz i have no idea how safe it is
+
 a lightweight web app that helps you make SourceMod plugins. it uses Gemini tool-calling with a local JSON copy of the SourceMod API parsed from version 1.12. the parser is included in the `parser` directory. this repo serves as an archive. to run this for free make a copy of the app in the **the google AI studio link below**.  
 
 sourcemod api reference is generated from sourcemod build 1.12.
